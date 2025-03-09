@@ -1,4 +1,8 @@
 # YouTube-Data-Analysis-Dashboard (Interactive Dashboard creation using MS Excel)
+
+## Project Objective
+- The main objective is to build a single page dashboard with key metrics, insights and visualizations on people involved in Youtube and determine the top most youtube channel by video count and video views.
+
 ## Dataset
 - <a href="https://github.com/mohdjafar101/YouTube-Data-Analysis-Dashboard/blob/main/Youtube%20Data%20Dashboard.xlsx">Dataset</a>
 
